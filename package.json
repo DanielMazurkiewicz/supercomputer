@@ -1,0 +1,29 @@
+{
+  "name": "supercomputer",
+  "version": "0.0.1",
+  "description": "NodeJS library that automates mass computation tasks across multiple GPUs (also remote ones)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMazurkiewicz/supercomputer.git"
+  },
+  "keywords": [
+    "super",
+    "computer",
+    "supercomputer",
+    "spirv",
+    "spir-v",
+    "vulkan",
+    "mass",
+    "computation"
+  ],
+  "author": "Daniel Mazurkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMazurkiewicz/supercomputer/issues"
+  },
+  "homepage": "https://github.com/DanielMazurkiewicz/supercomputer#readme"
+}
